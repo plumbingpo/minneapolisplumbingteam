@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://minneapolisplumbingteam.com/sitemap.xml
